@@ -1,0 +1,14 @@
+﻿Cách đặt tên cho các thuộc tính trong form
+1.label : 
+label mã sinh viên -> lbl_msv
+- lbl_<tên> || <tên>_lbl
+
+LƯU Ý: không phải label nào cũng đặt tên
+2. TextBox : txt_<tên> || <tên>_txt
+3. radiobutton: rbtn_<tên> || <tên>_rbtn
+4. checkbox: cbx_<tên> || <tên>_cbx
+5. combobox: cmbx_<tên> || <tên>_cmbx
+6. button: btn_<tên> || <tên>_btn
+7. datagridview: dtgView
+8. DatePicker : dpk
+9. richtextbox: rtxt_<tên>
